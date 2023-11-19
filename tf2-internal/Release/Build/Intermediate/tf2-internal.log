@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\proje\OneDrive\Documents\Projects\Internal\tf2-internal\tf2-internal\includes\sdk\interfaces\vguisystem\vguisystem.hpp(21,2): warning C4091: 'typedef ': ignored on left of 'RGBA' when no variable is declared
+     Creating library C:\Users\proje\OneDrive\Documents\Projects\Internal\tf2-internal\Release\Build\tf2-internal.lib and object C:\Users\proje\OneDrive\Documents\Projects\Internal\tf2-internal\Release\Build\tf2-internal.exp
+  Generating code
+  0 of 740 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tf2-internal.vcxproj -> C:\Users\proje\OneDrive\Documents\Projects\Internal\tf2-internal\Release\Build\tf2-internal.dll
